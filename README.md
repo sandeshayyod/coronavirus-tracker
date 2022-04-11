@@ -1,2 +1,2 @@
-# coronavirus-tracker
-# SpringCovidTracker A sample project for creating a covid tracker using Spring Boot
+# SpringCovidTracker
+A sample project for creating a covid tracker using Spring Boot
